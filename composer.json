@@ -1,0 +1,26 @@
+{
+    "name": "project_name",
+    "description": "",
+    "type": "library|project|metapackage|composer-plugin",
+    "license": "license",
+    "keywords": [],
+    "homepage": "",
+    "authors": [],
+    "support": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ApplicationTest\\": "test/"
+        }
+    },
+    "require-dev": {
+    }
+}
