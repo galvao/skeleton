@@ -5,7 +5,12 @@
     "license": "Unlicense",
     "keywords": ["template", "skeleton"],
     "homepage": "https://github.com/galvao/skeleton",
-    "authors": ["Er Galvao Abbott"],
+    "authors": [
+        {
+            "name": "Er Galvao Abbott",
+            "email": "galvao@php.net"
+        }
+    ],
     "support": {},
     "minimum-stability": "dev",
     "prefer-stable": true,
